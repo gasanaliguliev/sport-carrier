@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/sport-carrier/static/css/main.7acaea2f.css",
+    "main.js": "/sport-carrier/static/js/main.e2652698.js",
+    "static/media/header-icon.png": "/sport-carrier/static/media/header-icon.a0af5f8804ca61ef7ec5.png",
+    "index.html": "/sport-carrier/index.html",
+    "main.7acaea2f.css.map": "/sport-carrier/static/css/main.7acaea2f.css.map",
+    "main.e2652698.js.map": "/sport-carrier/static/js/main.e2652698.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.e2652698.js"
   ]
 }
